@@ -1,4 +1,4 @@
-package org.data.structure.linear;
+package org.confusion.data.structure.linear;
 
 public class Node<T> {
     public T data;

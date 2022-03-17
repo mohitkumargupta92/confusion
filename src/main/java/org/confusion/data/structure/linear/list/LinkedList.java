@@ -1,6 +1,6 @@
-package org.data.structure.linear.list;
+package org.confusion.data.structure.linear.list;
 
-import org.data.structure.linear.Node;
+import org.confusion.data.structure.linear.Node;
 
 public class LinkedList<T> {
     Node<T> head = null;

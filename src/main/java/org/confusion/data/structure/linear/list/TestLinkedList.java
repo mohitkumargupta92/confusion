@@ -1,4 +1,4 @@
-package org.data.structure.linear.list;
+package org.confusion.data.structure.linear.list;
 
 public class TestLinkedList {
     public static void main(String[] args) {
