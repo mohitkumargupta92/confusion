@@ -3,6 +3,7 @@ package org.confusion.sort;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
+// In-place Sorting Algo
 // finding right place for position 1, then position 2
 // find the right place for index 0, then 1 and so on
 // in first iteration min element is placed at its correct place and so on.

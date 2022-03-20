@@ -3,6 +3,7 @@ package org.confusion.sort;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
+// In-place Sorting Algo
 // similar to the air bubble
 // larger bubble will rise first
 // in this largest element find its correct place in first iteration and so on
